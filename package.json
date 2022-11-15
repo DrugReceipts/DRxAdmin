@@ -27,7 +27,8 @@
   "dependencies": {
     "@strapi/strapi": "^4.1.9",
     "axios": "^0.26.1",
-    "react-intl": "^5.25.1"
+    "react-intl": "^5.25.1",
+    "strapi-plugin-netlify-deployments": "^2.0.0"
   },
   "keywords": [
     "strapi",
